@@ -1,0 +1,9 @@
+[submodule "Packages/com.sipvlib.view"]
+	path = Packages/com.sipvlib.view
+	url = git@github.com:sipv1612/SiPVLib_View.git
+[submodule "Packages/com.sipvlib.event"]
+	path = Packages/com.sipvlib.event
+	url = git@github.com:sipv1612/SiPVLib_Event.git
+[submodule "Packages/com.sipvlib.data"]
+	path = Packages/com.sipvlib.data
+	url = git@github.com:sipv1612/SiPVLib_Data.git
